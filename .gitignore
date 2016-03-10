@@ -60,3 +60,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+#pycharm
+.idea/workspace.xml
+
+#image files
+Opencountry
